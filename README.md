@@ -11,7 +11,7 @@ I love both computer science and design, and am interested in areas where these 
 
 🐜 &nbsp;**PeterPortal:** A fully-integrated course scheduling and planning website that will serve all UCI students. _(currently under development alongside the UCI ICS Student Council Projects Committee)_
 
-🏆 &nbsp;**Sticking To Your Goal:** A cross-platform mobile app allowing users to create custom Snapchat/Instagram story stickers featuring steps taken, heart rate, and ohter personal data. _(currently under development alongside Professor Daniel Epstein's undergraduate research team)_
+🏆 &nbsp;**Sticking To Your Goal:** A cross-platform mobile app allowing users to create custom Snapchat/Instagram story stickers featuring steps taken, heart rate, and other personal data. _(currently under development alongside Professor Daniel Epstein's undergraduate research team)_
 
 #### What else do I do?
 📸 &nbsp;I LOVE photography, and have been doing it for many years! My favorite photos to take are portraits and nature.<br>
