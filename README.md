@@ -5,7 +5,7 @@
 I love both computer science and design, and am interested in areas where these passions intersect, such as front-end web/app development and UI/UX design! I'm a strong believer in making products as elegant and intuitive as they are functional, and you'll see this philosophy appear in every product I've developed.
 
 #### Some projects I've worked on
-🌙 &nbsp;**[Messenger Black](https://messengerblack.com):** Dark Mode for Facebook Messenger on Safari/Chrome that can optionally be aligned with the sun's natural rhythm. _(completed at the end of my senior year of high school; 40,000+ downloads across Safari and Chrome)_
+🌙 &nbsp;**[Messenger Black](https://messengerblack.com):** Dark Mode for Facebook Messenger on Safari/Chrome that can optionally be aligned with the sun's natural rhythm. _(completed at the end of my senior year of high school; 50,000+ downloads across Safari and Chrome)_
 
 🧵 &nbsp;**[Tapestry](https://devpost.com/software/tapestry):** Code Visualization for Python that supports diagram generation for objects, lists, and classes. _(currently under development; Best Entrepreneurial Hack @ HackUCI 2020)_
 
