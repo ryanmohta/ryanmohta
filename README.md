@@ -1,6 +1,6 @@
-![Banner Image](banner.png)
+![Banner Image](https://user-images.githubusercontent.com/19882060/129654426-4fbcfcfb-c857-4c2a-8320-72ddba8a4351.png)
 
-### Hey there! I'm Ryan, a Front-End Developer and 2nd-year CS Student @ UC Irvine.
+### Hey there! I'm Ryan, a Full-Stack Developer and 3rd-year CS Student @ UC Irvine.
 
 I love both computer science and design, and am interested in areas where these passions intersect, such as front-end web/app development and UI/UX design! I'm a strong believer in making products as elegant and intuitive as they are functional, and you'll see this philosophy appear in every product I've developed.
 
