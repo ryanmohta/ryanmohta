@@ -1,6 +1,6 @@
 ![Banner Image](https://user-images.githubusercontent.com/19882060/129654426-4fbcfcfb-c857-4c2a-8320-72ddba8a4351.png)
 
-### Hey there! I'm Ryan, a Full-Stack Developer and 4th-year CS Student @ UC Irvine.
+### Hey there! I'm Ryan, a Full-Stack Developer and UC Irvine CS alum.
 
 I love both computer science and design, and am interested in areas where these passions intersect, such as front-end web/app development and UI/UX design! I'm a strong believer in making products as elegant and intuitive as they are functional, and you'll see this philosophy appear in every product I've developed. Explore my pinned repositories to see a bit of what I've done so far 👀
 
